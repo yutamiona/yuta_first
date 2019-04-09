@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>getメソッド</title>
+<title>タイトルを修正したよ</title>
 </head>
 <body>
 <?php
-echo "どんなことがあっても、優秀なプログラマーになります！絶対にな";
+echo "タイトルを修正しました！";
 $first = "あいみょ";
 if ($first == "明日僕がいい男になるわけでも") {
 	echo "2";
